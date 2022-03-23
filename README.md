@@ -1,4 +1,6 @@
 ### Diseño y Nuevos Medios → Clase 03 → 23/03/2021
+![mi_atacazo_artistico](https://user-images.githubusercontent.com/101235526/159811766-02b592d4-0b76-46bc-8806-a14beb30651e.jpg)
+
 
 # HTML5 + CSS3 + p5.js
 
